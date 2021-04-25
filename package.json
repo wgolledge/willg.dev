@@ -1,0 +1,13 @@
+{
+  "name": "willg.dev",
+  "private": true,
+  "homepage": "https://willg.dev",
+  "author": {
+    "name": "Will Golledge",
+    "email": "hi@willg.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgolledge/willg.dev.git"
+  }
+}
